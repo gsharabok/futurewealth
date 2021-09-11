@@ -19,7 +19,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="img/demo_main.png" alt="Logo" width="700" height="300">
+  <img src="img/demo_main.png" alt="Logo" width="700" height="400">
 </p>
 
 The project is aimed at helping individuals and small companies track expenses, make future budgeting plans with the assistance of technology. The users are able to add their previous expenses to the system. The system will analyze the user data and provide strategies and statistics that will help users make adjustments to their plans, correct their spending mistakes, and find opportunities to increase income.
