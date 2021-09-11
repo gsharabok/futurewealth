@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://funding-project.herokuapp.com/">
-    <img src="img/wealth.png" alt="Logo" width="80" height="80">
+    <img src="img/wealth.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Future Wealth</h3>
@@ -18,7 +18,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](img/demo_main.png)
+<p align="center">
+  <img src="img/demo_main.png" alt="Logo" width="300" height="300">
+</p>
+[![Future Wealth Screenshot][product-screenshot]](img/demo_main.png)
 
 The project is aimed at helping individuals and small companies track expenses, make future budgeting plans with the assistance of technology. The users are able to add their previous expenses to the system. The system will analyze the user data and provide strategies and statistics that will help users make adjustments to their plans, correct their spending mistakes, and find opportunities to increase income.
 
